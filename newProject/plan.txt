@@ -1,0 +1,18 @@
+idées :
+avion qui lance des missiles sur des metéorites
+et si il ne les arretes pas a temps il perd une vie.
+il a 3 vies.
+il y a un score.
+si il arrive à 100 il gagne.
+chaque fois qu'il detruite un météor il gagne un point.
+
+images néscessaires:
+avion
+missiles
+meteorites
+
+manette :
+negatif 1 -> gauche
+positif 1 -> droite
+negatif 0 -> bas
+negatif 0 -> haut
